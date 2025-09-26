@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World! to all Living Animals living on the planet");
+        System.out.println("Hello, World! to all Living Animals living on the planet Earth");
     }
 }
